@@ -1,0 +1,26 @@
+_repo: A-Treatise-of-Witchcraft_17209
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, Alexander
+    deathdate: 1620
+    gutenberg_agent_id: '7224'
+    url: http://www.gutenberg.org/2009/agents/7224
+description: ''
+gutenberg_bookshelf: Witchcraft
+gutenberg_issued: '2005-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17209'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft -- Early works to 1800'
+- !lcc 'BF'
+title: A Treatise of Witchcraft
+url: http://www.gutenberg.org/ebooks/17209
